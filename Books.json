@@ -1,0 +1,33 @@
+[
+    {
+        "title": "tata5",
+        "author": "hsj",
+        "isbn": "sksl",
+        "genre": "djdj"
+    },
+    {
+        "title": "tata",
+        "author": "jdks",
+        "isbn": "jdkd",
+        "genre": "kdkd"
+    },
+    {
+        "title": "tata2",
+        "author": "dkj",
+        "isbn": "dkkd",
+        "genre": "djf"
+    },
+    {
+        "title": "tata3",
+        "author": "kfjf",
+        "isbn": "fjjkf",
+        "genre": "jfk",
+        "borrower": "buri"
+    },
+    {
+        "title": "tata6",
+        "author": "shydgd",
+        "isbn": "12",
+        "genre": "13"
+    }
+]
